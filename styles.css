@@ -18,6 +18,9 @@ body{
     border-radius: 10px;
     background-color: #ffffff;
 }
+.img1{
+    border-radius: 10px;
+}
 .img2{
     display: none;
 }
